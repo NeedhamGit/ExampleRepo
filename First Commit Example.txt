@@ -1,7 +1,6 @@
 def function drive(){
 
 
-loremipsum
 
 }
 
